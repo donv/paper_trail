@@ -3,6 +3,10 @@ rvm:
   - 2.3.0
   - 1.9.3
   - jruby-19mode
+  - jruby-9.0.1.0
+  - jruby-9.0.4.0
+  - jruby-9.0.5.0
+  - jruby-head
 env:
   global:
     - TRAVIS=true
